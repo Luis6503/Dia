@@ -1,0 +1,17 @@
+:root {
+	--ion-color-uno: #0D98BA;
+	--ion-color-uno-rgb: 13,152,186;
+	--ion-color-uno-contrast: #000000;
+	--ion-color-uno-contrast-rgb: 0,0,0;
+	--ion-color-uno-shade: #0b86a4;
+	--ion-color-uno-tint: #25a2c1;
+}
+
+.ion-color-uno {
+	--ion-color-base: var(--ion-color-uno);
+	--ion-color-base-rgb: var(--ion-color-uno-rgb);
+	--ion-color-contrast: var(--ion-color-uno-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-uno-contrast-rgb);
+	--ion-color-shade: var(--ion-color-uno-shade);
+	--ion-color-tint: var(--ion-color-uno-tint);
+}
